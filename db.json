@@ -284,5 +284,34 @@
     "comments":[
 
     ],
-    "slides":["https://www.libraff.az/images/abt__ut2/banners/all/1312/C%CC%A7ingiz-Abdullayev---I%CC%87mza-saat%C4%B1-web-.webp","https://www.libraff.az/images/abt__ut2/banners/all/1305/martin-iden-desktop.webp","https://www.libraff.az/images/abt__ut2/banners/all/1305/Hero-banner-desktop-20_-discount.webp","https://www.libraff.az/images/abt__ut2/banners/all/1310/01-web-3840x1000.webp"]
+    "slides":["https://www.libraff.az/images/abt__ut2/banners/all/1312/C%CC%A7ingiz-Abdullayev---I%CC%87mza-saat%C4%B1-web-.webp","https://www.libraff.az/images/abt__ut2/banners/all/1305/martin-iden-desktop.webp","https://www.libraff.az/images/abt__ut2/banners/all/1305/Hero-banner-desktop-20_-discount.webp","https://www.libraff.az/images/abt__ut2/banners/all/1310/01-web-3840x1000.webp"],
+    {
+  "campanies": [
+    {
+      "countdown": "Bitməsinə 18 gün qaldı",
+      "discount": "Seçilmiş məhsullara 40% Endirim (01-31 May)",
+      "period": "dan 01-05-2025 a 01-06-2025",
+      "img": "https://www.libraff.az/images/thumbnails/330/200/promotion/1310/40_AZE.webp.webp"
+    },
+    {
+      "countdown": "Bitməsinə 18 gün qaldı",
+      "discount": "Seçilmiş məhsullara 70% ENDİRİM (1-31 MAY)",
+      "period": "dan 01-05-2025 a 01-06-2025",
+      "img": "https://www.libraff.az/images/thumbnails/330/200/promotion/1310/70-AZE_gkax-5d.webp.webp"
+    },
+    {
+      "countdown": "Bitməsinə 18 gün qaldı",
+      "discount": "Seçilmiş məhsullara 80% Endirim (01-31 May)",
+      "period": "dan 01-05-2025 a 01-06-2025",
+      "img": "https://www.libraff.az/images/thumbnails/330/200/promotion/1310/80_AZE.webp.webp"
+    },
+    {
+      "countdown": "Bitməsinə 18 gün qaldı",
+      "discount": "Seçilmiş məhsullara 50% Endirim (01-31 May)",
+      "period": "dan 01-05-2025 a 01-06-2025",
+      "img": "https://www.libraff.az/images/thumbnails/330/200/promotion/1310/50-AZE.webp.webp"
+    }
+  ]
+}
+
 }
