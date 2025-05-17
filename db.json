@@ -7,10 +7,11 @@
             "img": "https://covers.openlibrary.org/b/OLID/OL1234567M-L.jpg",
             "price": 12.99,
             "description": "Gənc zabitə aşiq olan, ərini və ailəsini atan gənc və gözəl bir qadının hekayəsi.",
-            "category": "Bədii Ədəbiyyat",
+            "category": "Kitab",
             "altCateg": [
-                "Roman"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Klassiklər","Macəra"],
             "lang": [
                 "Az",
                 "Ru"
@@ -26,11 +27,11 @@
             "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/447ec35c-5053-11eb-a4d2-503eaa128442_1.jpg.webp",
             "price": 10.99,
             "description": "Totalitar bir cəmiyyətin distopik təsviri.",
-            "category": "Bədii Ədəbiyyat",
+           "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Distopiya"
+                "Qeyri-Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Distopiya","Macəra"],
             "lang": [
                 "Az",
                 "En"
@@ -46,11 +47,11 @@
             "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/c41418cf-89da-11ee-a525-503eaa120fc7_1.jpg.webp",
             "price": 9.99,
             "description": "Necə xoşbəxt olmaq olar? Qəzəbimizi necə cilovlaya bilərik? Gerçək uğur nədir? Qismətimizin öhdəsindən gələ, həyatımızı mənalandıra bilərikmi? Bütün bu suallara stoasizm fəlsəfəsini mənimsəyərək cavab tapmaq olar. Əlinizdəki kitab antik müdrikliyə doğru irəlilədiyiniz zaman sizə bələdçilik edəcək. Bir çox mədəniyyət adamları, alimlər, aktivistlər, imperatorlar, döyüşçülər, müharibə qəhrəmanları yüz illər boyunca bu fəlsəfədən bəhrələniblər, ondan qaranlıqda çıraq, “döyüş”lərdə silah kimi istifadə ediblər. İndi növbə bizdədir. Stoisizm fəlsəfəsindən faydalanaraq həyatımızı asanlaşdıra, zehnimizi təmizləyə, daha güclü, daha mətin, daha səbatlı, daha müdrik, daha dinc bir insan ola, özümüzü tapa, tanıya bilərik. Üç yüz altmış altı gün... Bir il... Hər gün müxtəlif məsləhətlər, ibarələr, əhvalatlar... İmperator Mark Avreli, Seneka, Epiktet və başqa filosoflar sizinlə birgə addımlayacaq, sizə yoldaşlıq edəcək, çətin vəziyyətə düşdüyünüz, büdrədiyiniz, ümidinizi itirdiyiniz, yorulduğunuz zaman əlinizdən tutacaql",
-            "category": "Şəxsi İnkişaf",
+           "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Fəlsəfi"
+                "Qeyri-Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Psixologiya","Şəxsi İnkişaf"],
             "lang": [
                 "Az",
                 "En"
@@ -66,11 +67,11 @@
             "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5a5b8a4b-5052-11eb-a4d2-503eaa128442_1.jpg.webp",
             "price": 11.99,
             "description": "Amerikanın cənubunda ədalət və irqçilik mövzularını araşdıran bir roman.",
-            "category": "Bədii Ədəbiyyat",
+            "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Sosial"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Romantika"],
             "lang": [
                 "Az",
                 "En"
@@ -86,11 +87,11 @@
             "img": "https://m.media-amazon.com/images/I/91D4YvdC0dL.jpg",
             "price": 10.49,
             "description": "Gələcəkdə texnologiyanın və sosial mühəndisliyin təsiri ilə formalaşan bir cəmiyyətin təsviri.",
-            "category": "Bədii Ədəbiyyat",
+            "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Distopiya"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Distopiya"],
             "lang": [
                 "Az",
                 "En"
@@ -106,11 +107,11 @@
             "img": "https://resizing.flixster.com/3J-F0XDYJFRviYtgfyS3VbDPEYQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YxYzQ2MGJiLTgxMjgtNGIyYi1iYjVjLTQ5NTVkZGFkOGQyNi5qcGc=",
             "price": 8.99,
             "description": "İngilis aristokratiyasında sevgi və sosial siniflərin təsviri.",
-            "category": "Bədii Ədəbiyyat",
+           "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Romantik"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Romantika"],
             "lang": [
                 "Az",
                 "En"
@@ -126,11 +127,11 @@
             "img": "https://m.media-amazon.com/images/I/8125BDk3l9L.jpg",
             "price": 9.49,
             "description": "Gənc bir oğlanın yetkinlik dövründə yaşadığı daxili mübarizələr.",
-            "category": "Bədii Ədəbiyyat",
+            "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Gənclik"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Macəra"],
             "lang": [
                 "Az",
                 "En"
@@ -146,11 +147,11 @@
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg6Sg_TEbTn14FDwL43rSfxwV4W9IhQV5ecQ&s",
             "price": 12.49,
             "description": "Kapitan Ahabın ağ balina ilə olan obsesiyası və dəniz macərası.",
-            "category": "Bədii Ədəbiyyat",
+            "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Macəra"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Tarixi Roman"],
             "lang": [
                 "Az",
                 "En"
@@ -166,11 +167,11 @@
             "img": "https://m.media-amazon.com/images/I/71O2XIytdqL._AC_UF1000,1000_QL80_.jpg",
             "price": 11.99,
             "description": "Gənc bir tələbənin cinayət və vicdan əzabı ilə mübarizəsi.",
-            "category": "Bədii Ədəbiyyat",
+            "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Psixoloji"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Distopiya"],
             "lang": [
                 "Az",
                 "Ru"
@@ -186,11 +187,11 @@
             "img": "https://www.perseusbooks.com/wp-content/uploads/2020/06/9780762498130-3.jpg",
             "price": 10.99,
             "description": "1920-ci illərin Amerikasında zənginlik və sevgi axtarışı.",
-            "category": "Bədii Ədəbiyyat",
+           "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Klassik"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Klassik poemalar"],
             "lang": [
                 "Az",
                 "En"
@@ -206,11 +207,11 @@
             "img": "https://static.insales-cdn.com/r/2GDy-pJBhQw/rs:fit:570:570:1/q:80/plain/images/products/1/374/171082102/3dbc8bb945df1ece49ea2ad4a95302e2.jpg@jpg",
             "price": 10.90,
             "description": "Psixoloq ilə susqun bir qadının sirli və gerilim dolu hekayəsi.",
-            "category": "Detektiv",
+            "category": "Kitab",
             "altCateg": [
-                "Gerilim",
-                "Psixoloji"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Detektiv"],
             "lang": [
                 "Az",
                 "En"
@@ -226,11 +227,11 @@
             "img": "https://m.media-amazon.com/images/I/91b0C2YNSrL.jpg",
             "price": 9.50,
             "description": "Öz xəzinəsini axtaran gənc çoban Santiago'nun mistik və fəlsəfi səyahəti.",
-            "category": "Fəlsəfi",
+            "category": "Kitab",
             "altCateg": [
-                "Macəra",
-                "Ruhani"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Klassik poemalar"],
             "lang": [
                 "Az",
                 "Tr"
@@ -246,11 +247,11 @@
             "img": "https://m.media-amazon.com/images/I/81UWB7oUZ0L.jpg",
             "price": 13.99,
             "description": "İnsan növünün keçmişindən gələcəyinə səyahət.",
-            "category": "Tarix",
+            "category": "Kitab",
             "altCateg": [
-                "Fəlsəfi",
-                "Elmi"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Romanlar & Novellalar","Klassik poemalar"],
             "lang": [
                 "Az",
                 "En"
@@ -266,10 +267,11 @@
             "img": "https://m.media-amazon.com/images/I/71UwSHSZRnS.jpg",
             "price": 11.50,
             "description": "Düşüncə tərzinin həyatımıza təsiri və uğur üçün açar prinsiplər.",
-            "category": "Şəxsi İnkişaf",
+            "category": "Kitab",
             "altCateg": [
-                "Psixologiya"
+                "Qeyri-Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Şəxsi İnkişaf","Psixologiya"],
             "lang": [
                 "Az",
                 "En"
@@ -285,11 +287,11 @@
             "img": "https://m.media-amazon.com/images/I/91bYsX41DVL.jpg",
             "price": 12.25,
             "description": "Kiçik dəyişikliklərlə böyük nəticələr əldə etməyin yolları.",
-            "category": "Şəxsi İnkişaf",
+             "category": "Kitab",
             "altCateg": [
-                "Motivasiya",
-                "Strategiya"
+                "Qeyri-Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Şəxsi İnkişaf","Psixologiya"],
             "lang": [
                 "Az",
                 "En"
@@ -305,11 +307,11 @@
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lAu8bRk581xG3ssIWCzRuQiqg-ioDtJFqw&s",
             "price": 9.99,
             "description": "Elm dünyasında unudulmuş bir qadının gerçək və ilhamverici hekayəsi.",
-            "category": "Bioqrafiya",
+             "category": "Kitab",
             "altCateg": [
-                "Tarixi",
-                "Feminizm"
+                "Qeyri-Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Şəxsi İnkişaf","Psixologiya"],
             "lang": [
                 "Az",
                 "En"
@@ -325,11 +327,11 @@
             "img": "https://img.kitapyurdu.com/v1/getImage/fn:11863105/wh:true/wi:800",
             "price": 8.80,
             "description": "İngiltərənin aristokrat dövründə sevgi və sosial münasibətlər.",
-            "category": "Klassik",
+             "category": "Kitab",
             "altCateg": [
-                "Roman",
-                "Romantik"
+                "Qeyri-Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Şəxsi İnkişaf","Psixologiya"],
             "lang": [
                 "Az",
                 "Tr"
@@ -345,11 +347,11 @@
             "img": "https://www.elifsafak.com.tr/t/?src=%2Ffiles%2Fkitap%2Fimg%2Fkayip-agaclar-adasi-on-kapak.jpg&w=320&h=455&zc=2",
             "price": 10.75,
             "description": "Doğunun ruhu ilə Qərbin ağlı arasında sıxışan bir qadının hekayəsi.",
-            "category": "Bədii Ədəbiyyat",
+             "category": "Kitab",
             "altCateg": [
-                "Feminizm",
-                "Ruhani"
+                "Qeyri-Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Dini","Fəlsəfə"],
             "lang": [
                 "Az",
                 "Tr"
@@ -365,11 +367,11 @@
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMnFUDZ9miHx8ZJvcBebcb6JaUQvxkbIyaNg&s",
             "price": 9.80,
             "description": "Keçmiş agentin həyatı üçün verdiyi ölüm-dirim mübarizəsi.",
-            "category": "Triller",
+             "category": "Kitab",
             "altCateg": [
-                "Casusluq",
-                "Gerilim"
+                "Bədii Ədəbiyyat"
             ],
+            "altAltCateg":["Detektiv","Triller,mistika & Qorxu"],
             "lang": [
                 "Az",
                 "En"
@@ -385,11 +387,11 @@
             "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVc-uR9AYfLPgs_IU43OS8tucLVIkIrfrfxg&s",
             "price": 7.50,
             "description": "Sadə görünsə də, dərin fəlsəfəsi olan universal uşaq və böyük kitabı.",
-            "category": "Klassik",
+             "category": "Oyuncaq",
             "altCateg": [
-                "Fəlsəfi",
-                "Uşaq"
+                "Oyuncaq kitablar"
             ],
+            "altAltCateg":["Səsli kitablar"],
             "lang": [
                 "Az",
                 "Tr",
@@ -443,6 +445,7 @@
                         "Antologiya",
                         "Bioqrafiya, avtobioqrafiya & Xatirə",
                         "Detektiv",
+                        "Romantika",
                         "Elmi-fantastika & Fantaziya",
                         "Fəlsəfə",
                         "Hekayələr & Oçerklər",
@@ -454,17 +457,17 @@
                         "Mifologiya",
                         "Nağıllar",
                         "Poemalar",
-                        "Psixologiya",
                         "Romanlar & Novellalar",
-                        "Satira",
-                        "Tarix, hüquq & Siyasi",
                         "Tarixi roman",
+                        "Distopiya",
                         "Triller, mistika & Qorxu"
                     ]
                 },
                 {
                     "name": "Qeyri-bədii ədəbiyyat",
                     "subSubCategory": [
+                        "Şəxsi İnkişaf",
+                        "Distopiya",
                         "Təhsil, mənbə & Dil",
                         "Bədii uşaq ədəbiyyatı",
                         "Qeyri-bədii uşaq ədəbiyyatı",
@@ -483,12 +486,8 @@
                         "Heyvanlar",
                         "Jurnallar & Qəzetlər",
                         "Kino və teatr",
-                        "Klassiklər",
                         "Komiks",
-                        "Kompüter elmləri",
-                        "Mifologiya",
                         "Musiqi",
-                        "Nağıllar",
                         "Oyuncaq kitablar",
                         "Psixologiya",
                         "Qeyri-bədii",
