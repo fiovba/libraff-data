@@ -58,7 +58,7 @@
             ],
             "stockCount": 3,
             "soldCount": 1,
-            "view": 0
+            "view": 12
         },
         {
             "id": 4,
@@ -298,7 +298,7 @@
             ],
             "stockCount": 4,
             "soldCount": 2,
-            "view": 0
+            "view": 23
         },
         {
             "id": 16,
@@ -338,7 +338,7 @@
             ],
             "stockCount": 4,
             "soldCount": 3,
-            "view": 0
+            "view": 25
         },
         {
             "id": 18,
