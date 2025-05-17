@@ -432,5 +432,114 @@
             "period": "dan 01-05-2025 a 01-06-2025",
             "img": "https://www.libraff.az/images/thumbnails/330/200/promotion/1310/50-AZE.webp.webp"
         }
+    ],
+    "categories": [
+        {
+            "category": "Kitab",
+            "subCategory": [
+                {
+                    "name": "Bədii ədəbiyyat",
+                    "subSubCategory": [
+                        "Antologiya",
+                        "Bioqrafiya, avtobioqrafiya & Xatirə",
+                        "Detektiv",
+                        "Elmi-fantastika & Fantaziya",
+                        "Fəlsəfə",
+                        "Hekayələr & Oçerklər",
+                        "Kino və teatr",
+                        "Klassik poemalar",
+                        "Klassiklər",
+                        "Komiks",
+                        "Macəra",
+                        "Mifologiya",
+                        "Nağıllar",
+                        "Poemalar",
+                        "Psixologiya",
+                        "Romanlar & Novellalar",
+                        "Satira",
+                        "Tarix, hüquq & Siyasi",
+                        "Tarixi roman",
+                        "Triller, mistika & Qorxu"
+                    ]
+                },
+                {
+                    "name": "Qeyri-bədii ədəbiyyat",
+                    "subSubCategory": [
+                        "Təhsil, mənbə & Dil",
+                        "Bədii uşaq ədəbiyyatı",
+                        "Qeyri-bədii uşaq ədəbiyyatı",
+                        "3D Kitab",
+                        "Ailə",
+                        "Aşpazlıq",
+                        "Astronomiya",
+                        "Bioqrafiya, avtobioqrafiya & Xatirə",
+                        "Biznes & İqtisadiyyat",
+                        "Dini",
+                        "Dəb",
+                        "Elm",
+                        "Ensiklopediyalar & Atlaslar",
+                        "Fəaliyyətlər",
+                        "Fəlsəfə",
+                        "Heyvanlar",
+                        "Jurnallar & Qəzetlər",
+                        "Kino və teatr",
+                        "Klassiklər",
+                        "Komiks",
+                        "Kompüter elmləri",
+                        "Mifologiya",
+                        "Musiqi",
+                        "Nağıllar",
+                        "Oyuncaq kitablar",
+                        "Psixologiya",
+                        "Qeyri-bədii",
+                        "Sağlamlıq, tibbi & İdman",
+                        "Sitatlar & Aforizmlər"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Oyuncaq",
+            "subCategory": [
+                {
+                    "name": "Uşaq oyuncaqları",
+                    "subSubCategory": [
+                        "Təhsil oyuncaqları",
+                        "Əyləncəli oyuncaqlar",
+                        "Qız və oğlan üçün fərqli oyuncaq dəstləri"
+                    ]
+                },
+                {
+                    "name": "Oyuncaq kitablar",
+                    "subSubCategory": [
+                        "Səsli kitablar",
+                        "3D formatlı kitablar",
+                        "Sensorlu interaktiv kitablar"
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Oyunlar və dəftərxana",
+            "subCategory": [
+                {
+                    "name": "Oyunlar",
+                    "subSubCategory": [
+                        "Zəkalı oyunlar",
+                        "Masaüstü oyunlar",
+                        "Puzzle və bloklar"
+                    ]
+                },
+                {
+                    "name": "Dəftərxana ləvazimatları",
+                    "subSubCategory": [
+                        "Qələmlər və markerlər",
+                        "Dəftərlər və planlayıcılar",
+                        "Rəsm alətləri",
+                        "Kəsici və yapışdırıcı vasitələr"
+                    ]
+                }
+            ]
+        }
     ]
 }
