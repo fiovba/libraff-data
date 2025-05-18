@@ -403,12 +403,20 @@
         }
     ],
     "comments": [],
-    "slides": [
-        "https://www.libraff.az/images/abt__ut2/banners/all/1312/C%CC%A7ingiz-Abdullayev---I%CC%87mza-saat%C4%B1-web-.webp",
-        "https://www.libraff.az/images/abt__ut2/banners/all/1305/martin-iden-desktop.webp",
-        "https://www.libraff.az/images/abt__ut2/banners/all/1305/Hero-banner-desktop-20_-discount.webp",
-        "https://www.libraff.az/images/abt__ut2/banners/all/1310/01-web-3840x1000.webp"
-    ],
+    const data = {
+  "slides": [
+    "https://www.libraff.az/images/abt__ut2/banners/all/1312/C%CC%A7ingiz-Abdullayev---I%CC%87mza-saat%C4%B1-web-.webp",
+    "https://www.libraff.az/images/abt__ut2/banners/all/1305/martin-iden-desktop.webp",
+    "https://www.libraff.az/images/abt__ut2/banners/all/1305/Hero-banner-desktop-20_-discount.webp",
+    "https://www.libraff.az/images/abt__ut2/banners/all/1310/01-web-3840x1000.webp"
+  ],
+  "mobileSlides": [
+    "https://www.libraff.az/images/abt__ut2/banners/mobile/1305/Hero-banner-mobile-20_-discount-v2.webp",
+    "https://www.libraff.az/images/abt__ut2/banners/mobile/1310/1-endirim-mobil-1400x1000_ii8m-sl.webp",
+    "https://www.libraff.az/images/abt__ut2/banners/mobile/1310/1-endirim-mobil-1400x1000_ii8m-sl.webp"
+  ]
+};
+
     "campanies": [
         {
             "countdown": "Bitməsinə 18 gün qaldı",
